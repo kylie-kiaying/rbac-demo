@@ -59,3 +59,6 @@ Password: admin123
 ### User
 Username: user  
 Password: user123
+
+
+Currently data.sql doesn't work as expected. Run those sql queries manually in http://localhost:8080/h2-console to get the application working
